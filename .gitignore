@@ -1,0 +1,21 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.sh
+*.iml
+*.xls
+*.log
+db.sqlite3
+.DS_Store
+__pycache__/
+config.json
+session.json
+mysite.sock
+test.py
+mysite_uwsgi.ini
+uwsgi_params
+*.zip
+
