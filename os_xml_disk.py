@@ -18,7 +18,7 @@ def checkout_evn(paths):
             if not "."  in p:
                 path_str = path_str + "/" + p
                 if not os.path.exists(path_str):
-                    os.mkdir(path)
+                    os.mkdir(path_str)
 paths=[template_dir,original_iso,os_v_info,client_template_dir,client_template_mirror_storage_info]
 checkout_evn(paths)
 

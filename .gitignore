@@ -4,7 +4,7 @@
 
 # IntelliJ project files
 .idea
-*.sh
+#*.sh
 *.iml
 *.xls
 *.log
